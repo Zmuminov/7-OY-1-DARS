@@ -1,0 +1,30 @@
+.header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerList {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.headerListItem {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+}
+.ulItems {
+  cursor: pointer;
+}
+.ulItems:hover {
+  text-decoration: underline;
+}
+.greenBtn {
+  padding: 8px 10px;
+  background: none;
+  border: 3px solid green;
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,100 @@
+.FirstWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.greentText {
+  margin-top: 80px;
+  color: green;
+  font-size: 36px;
+}
+.mainTitle {
+  font-weight: 700;
+  margin-top: 10px;
+  font-size: 88px;
+}
+.textStyle {
+  color: #808080;
+  width: 550px;
+  margin-top: 30px;
+  line-height: 28px;
+}
+.imgBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.imgBtn:hover {
+  opacity: 0.6;
+}
+.imgBtn:active {
+  opacity: 1;
+}
+.btnWrapperHero {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.GreenFullBtn {
+  padding: 10px 20px;
+  background-color: green;
+  border: none;
+  cursor: pointer;
+  color: white;
+  transition: all 0.3s;
+}
+.GreenFullBtn:hover {
+  opacity: 0.6;
+}
+.GreenFullBtn:active {
+  opacity: 1;
+}
+.SecondWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ThirdWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+.bigtitle {
+  font-size: 46px;
+  font-weight: 700;
+  width: 460px;
+}
+.ServiceWrapper {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.white {
+  color: #808080;
+  font-size: 16px;
+  font-weight: 400;
+}
+.green {
+  color: green;
+}
+.SecondWrapper {
+  margin-top: 100px;
+}
+.productTite {
+  margin-top: 30px;
+  font-size: 26px;
+  font-weight: 700;
+}
+.textStyleTwo {
+  margin-top: 20px;
+  color: gray;
+}
+.itemInThisHero {
+  width: 350px;
+  padding: 30px;
+  background-color: #313131;
+  display: flex;
+  flex-direction: column;
+}
